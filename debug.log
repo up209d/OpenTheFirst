@@ -1,0 +1,445 @@
+[1110/124320:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1110/124320:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1110/124321:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1110/124321:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1110/124321:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1110/124321:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1110/124322:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[1110/124324:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:140)
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:15)
+    at about:blank:0:45", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124324:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.centerStage (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:112:293)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:55", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124325:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:74:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:55", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124325:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.resumeCanvasOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:34:198)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:55", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124325:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:74:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:55", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124325:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.resumeCanvasOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:34:198)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:55", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124328:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:55", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124328:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124328:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124329:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124329:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124329:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124329:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124330:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1110/124330:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1110/124330:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1110/124330:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124330:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124330:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124332:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124332:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124332:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124332:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124332:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124332:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124332:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124332:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124332:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124333:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124333:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124333:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124333:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124333:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124333:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124333:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124333:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124334:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.selectElements (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:83)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124334:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124334:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124334:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124334:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124334:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124334:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124335:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124335:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124335:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124335:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124336:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124336:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124336:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124336:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124336:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124336:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124336:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124336:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124337:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124337:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124337:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124337:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124337:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124337:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124337:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124337:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124337:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/edge.authoring.6.0.0.min.js:107:497)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124337:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124337:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124337:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124337:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124337:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124337:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124338:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124338:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124338:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124338:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124338:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124338:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124338:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.selectElements (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:83)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124338:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124338:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124338:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124338:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124338:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124338:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124338:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124338:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124339:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124339:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124339:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124339:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)
+[1110/124339:INFO:CONSOLE(48)] "TypeError: Cannot call method 'indexOf' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:45:202)
+    at Object.EdgeDOM.setInteractiveCookie (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js:25:302)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:57", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/UP/Desktop/OpenTheFirst%20TouchScreen/OpenTheFirst/edge_includes/an.canvas.overlay.min.js (48)

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+	<title>OTF-YearSelector</title>
+
+    
+<script type="text/javascript" charset="utf-8" src="js/jquery-2.1.4.js"></script>
+    <script type="text/javascript" charset="utf-8" src="js/interact.js"></script>
+    <script type="text/javascript" charset="utf-8" src="js/jquery.zoomooz.js"></script>
+    
+    
+
+</head>
+<body style="margin:0;padding:0;" >
+    <div>
+            <img class="GalleryImages" alt="Images" src="images/Gallery/Gallery-001.jpg" style="transform: scale(0.25,0.25)" >
+            <img class="GalleryImages" alt="Images" src="images/Gallery/Gallery-002.jpg" style="transform: scale(0.25,0.25)" >
+            <img class="GalleryImages" alt="Images" src="images/Gallery/Gallery-003.jpg" style="transform: scale(0.25,0.25)" >
+            <img class="GalleryImages" alt="Images" src="images/Gallery/Gallery-004.jpg" style="transform: scale(0.25,0.25)" >
+            <img class="GalleryImages" alt="Images" src="images/Gallery/Gallery-005.jpg" style="transform: scale(0.25,0.25)" >
+            <img class="GalleryImages" alt="Images" src="images/Gallery/Gallery-006.jpg" style="transform: scale(0.25,0.25)" >
+            <img class="GalleryImages" alt="Images" src="images/Gallery/Gallery-007.jpg" style="transform: scale(0.25,0.25)" >
+            <img class="GalleryImages" alt="Images" src="images/Gallery/Gallery-008.jpg" style="transform: scale(0.25,0.25)" >
+            <img class="GalleryImages" alt="Images" src="images/Gallery/Gallery-009.jpg" style="transform: scale(0.25,0.25)" >
+            <img class="GalleryImages" alt="Images" src="images/Gallery/Gallery-010.jpg" style="transform: scale(0.25,0.25)" >
+    </div>
+    <script>
+
+    $('.GalleryImages').each(function(){
+    
+    $(this).load(function(){
+        
+        leftOffset = (15 +Math.floor((Math.random() * 60)));
+        topOffset = ((15 + Math.floor((Math.random() * 50))));
+        rotateOffset = (Math.floor((Math.random() * 2)) > 0 ? 1 : -1) * Math.floor((Math.random() * 45))*0;
+        
+        $(this).css({position: 'absolute',top: topOffset+'%' ,left: leftOffset+'%', 'transform': 'scale(0.25,0.25) rotate('+rotateOffset+'deg)',opacity: 1, display:'block',transformOrigin: '0 0' });
+        
+    });
+
+});
+
+        
+            interact('.GalleryImages')
+                  .draggable({
+                    // enable inertial throwing
+                    inertia: true,
+                    // keep the element within the area of it's parent
+                    restrict: {
+                      restriction: "parent",
+                      endOnly: true,
+                      elementRect: { top: 0, left: 0, bottom: 1, right: 1 }
+                    },
+                    // enable autoScroll
+                    autoScroll: true,
+
+                    // call this function on every dragmove event
+                    onmove: dragMoveListener,
+                    // call this function on every dragend event
+                    onend: function (event) {
+                      var textEl = event.target.querySelector('p');
+
+                      textEl && (textEl.textContent =
+                        'moved a distance of '
+                        + (Math.sqrt(event.dx * event.dx +
+                                     event.dy * event.dy)|0) + 'px');
+                    }
+                  }).on('tap', function(evt){
+
+    
+             evt.stopPropagation();
+    
+             if($(evt.target).hasClass('clicked')) {
+
+                 $('body').zoomTo({targetsize:1,scalemode:'width'});
+                 $('.GalleryImages').removeClass('clicked');
+
+
+             } else {
+                 
+                $(evt.target).zoomTo({
+                    targetsize:0.8,
+                    scalemode:'both',
+                    duration: 1000,
+                    easing: [0.18,0.72,0.34,1.18],
+                    animationendcallback: 
+                    function() {
+                        console.log(evt.target);
+                    }});
+
+                $('.GalleryImages').removeClass('clicked').removeClass('GAnimated'); 
+                $(evt.target).addClass('clicked').addClass('GAnimated');
+
+                }
+    
+        });
+        
+
+            function dragMoveListener (event) {
+            var target = event.target,
+                // keep the dragged position in the data-x/data-y attributes
+                x = (parseFloat(target.getAttribute('data-x')) || 0) + event.dx,
+                y = (parseFloat(target.getAttribute('data-y')) || 0) + event.dy;
+
+            // translate the element
+            target.style.webkitTransform =  target.style.transform =  'scale(0.25, 0.25) rotate(0deg) translate(' + x*4 + 'px, ' + y*4 + 'px)';
+                
+            $(target).parent().css({transform: 'translate(' + x*0.01 + 'px, ' + y*0.01 + 'px)' });
+                
+                
+            // update the posiion attributes
+            target.setAttribute('data-x', x);
+            target.setAttribute('data-y', y);
+          }
+        
+
+          // this is used later in the resizing and gesture demos
+          window.dragMoveListener = dragMoveListener;
+        
+    </script>
+</body>
+</html>

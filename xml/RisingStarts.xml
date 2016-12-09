@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- can use playerinfo page design-->
+
+<MaleText>Borna Coric</MaleText>
+<MaleFirstName>Borna</MaleFirstName>
+<MaleFamilyName>Coric</MaleFamilyName>
+<PB_Text>Named the ATP Star of Tomorrow in November 2014, Croatian Borna Coric is well on his way to becoming a household name for tennis fans at the tender age of 18. The former world number one junior recorded impressive wins over Jerzy Janowicz, Ernests Gulbis, Lukas Rosol and Rafael Nadal in 2014 to become the youngest player since Nadal himself in 2003 to break into the top 100 ATP rankings.  Coric was also the youngest player to ever beat Rafael Nadal in straight sets. Coricǯs meteoric rise appears to have no signs of slowing in 2015, receiving direct entry into a Grand Slam for the first time during the Australian Open and later defeating current world number 3 Andy Murray in the quarter finals of the Dubai Duty Free Tennis Championships.  Coric credits his success to movement around the court and mental toughness.</PB_Text>
+<Info_Text>
+	<Birthplace>Zagreb, Croatia</Birthplace>
+	<Country>Croatia</Country>
+	<age>18, Born 14th November 1996</age>
+	<height>185cm</height>
+	<weight>79kg </weight>
+	<plays>Right handed</plays>
+</Info_Text>
+<S_Lose_Number>32</S_Lose_Number>
+<S_Win_Number>31</S_Win_Number>
+<S_HighestRanking>40</S_HighestRanking>
+<formguide></formguide>
+
+
+<MaleText>Lucas Pouille</MaleText>
+		<MaleFirstName>Lucas</MaleFirstName>
+		<MaleFamilyName>Pouille</MaleFamilyName>
+<PB_Text>After being introduced to the game at the age of 8, Pouille grew up idolising Swiss champion Roger Federer. Pouille marked himself as a potential star of the future for tennis fans, reaching the second round of the 2013 French Open on his Grand Slam debut.  His 2014 victories over 18th ranked Croatian Ivo Karlovic and 29th ranked Italian Fabio Fognini showcased his enormous potential, and his 2015 victory over 21st ranked Austrian Dominic Thiem confirmed his status as one to watch for tennis fans. </PB_Text>
+<Info_Text>
+	<Birthplace>Grande-Synthe, Nord, France</Birthplace>
+	<Country>France</Country>
+	<age>21, Born 23rd February 1994</age>
+	<height>185cm</height>
+	<weight>81kg</weight>
+	<plays>Right handed</plays>
+</Info_Text>
+<S_Lose_Number>20</S_Lose_Number>
+<S_Win_Number>13</S_Win_Number>
+<S_HighestRanking>68</S_HighestRanking>
+
+
+<MaleText>Dominic Thiem</MaleText>
+		<MaleFirstName>Dominic</MaleFirstName>
+		<MaleFamilyName>Thiem</MaleFamilyName>
+<PB_Text>Nicknamed 'Dominator', former French Open junior finalist Dominic Thiem started playing tennis at the age of 6. After achieving his first main draw victory at a Grand Slam during the 2014 Australian Open over Portugals João Sousa, Thiem's growth continued with an impressive 4th round showing at the 2014 US Open.  Thiem's first ATP career title came at the Open de Nice Cote d'Azur in France with victory over Argentina's Leonardo Mayer in May 2015, and he has added a further two ATP titles to his resume since. A rising star of the game, his first official seeding at a Grand Slam came when seeded 32nd for the 2015 Wimbledon Championships. </PB_Text>
+<Info_Text>
+	<Birthplace>Weiner Neustadt, Austria</Birthplace>
+	<Country>Austria</Country>
+	<age>22, Born 3rd September 1993</age>
+	<height>185cm</height>
+	<weight>82kg</weight>
+	<plays>Right handed</plays>
+</Info_Text>
+<S_Lose_Number>54</S_Lose_Number>
+<S_Win_Number>61</S_Win_Number>
+<S_HighestRanking>18</S_HighestRanking>
+
+
+<MaleText>Thanasi Kokkinakis</MaleText>
+		<MaleFirstName>Thanasi</MaleFirstName>
+		<MaleFamilyName>Kokkinakis</MaleFamilyName>
+<PB_Text>A successful junior reaching the 2013 Australian and US Open boysǯ finals, Kokkinakis shot to prominence with a hard fought 4 set victory over Dutchman Igor Sijsling at the 2014 Australian Open.  A career best Grand Slam performance in reaching the 3rd round of the 2015 French Open showed tennis fans glimpses of the enormous potential of the young Australian, who successfully broke into the top 100 during 2015. </PB_Text>
+<Info_Text>
+	<Birthplace>Adelaide, South Australia</Birthplace>
+	<Country>Australia</Country>
+	<age>19, Born 10th April 1996</age>
+	<height>196cm</height>
+	<weight>82kg</weight>
+	<plays>Right handed </plays>
+</Info_Text>
+<S_Lose_Number>25</S_Lose_Number>
+<S_Win_Number>15</S_Win_Number>
+<S_HighestRanking>76</S_HighestRanking>
+
+<!--Female rising stars-->
+<FemaleText>Belinda Bencic</FemaleText>
+		<FemaleFirstNameBelinda></FemaleFirstName>
+		<FemaleFamilyName>Bencic</FemaleFamilyName>
+<PB_Text>The youngest US Open quarter finalist since fellow countrywoman Martina Hingis in 1997, Belinda Bencic established herself as a future star of womenǯs tennis throughout 2014.  Hailing from Flawil, Switzerland, victories over top 10 players Caroline Wozniacki, Serena Williams, Ana Ivanovic and Simona Halep saw Bencic reach a career best ranking of world number 12 in August 2015.  Bencic is coached by her father, Ivan Bencic, and also occasionally coached by Melanie Molitor, mother of tennis great Martina Hingis.</PB_Text>
+<Info_Text>
+	<Birthplace>Flawil</Birthplace>
+	<Country>Switzerland</Country>
+	<age>10th March 1997</age>
+	<height>175cm</height>
+	<weight>63kg</weight>
+	<plays>Right-handed (two-handed backhand)</plays>
+</Info_Text>
+<S_Lose_Number>21</S_Lose_Number>
+<S_Win_Number>14</S_Win_Number>
+<S_HighestRanking>Career Prize Money: $2,230,520</S_HighestRanking>
+
+
+<FemaleText>Caroline Garcia</FemaleText>
+		<FemaleFirstName>Caroline</FemaleFirstName>
+		<FemaleFamilyName>Garcia</FemaleFamilyName>
+<PB_Text>After turning pro in 2011, Caroline Garcia made her first appearance as a grand slam qualifier at the 2013 Wimbledon championships.  Garcia earned her first WTA title at the 2014 Copa Claro Colsanitas in Bogota, defeating former world number 1 Jelena Jankovic in straight sets.  Garciaǯs career best grand slam performance came at the beginning of 2015, reaching the third round of the Australian Open.  Garcia is coached by her father, Louis Paul Garcia. </PB_Text>
+<Info_Text>
+<Birthplace>Saint-Germain-en-Laye</Birthplace>
+	<Country>France</Country>
+	<age>16th October 1993</age>
+	<height>177cm </height>
+	<weight>61kg</weight>
+	<plays>Right-handed (two-handed backhand)</plays>
+</Info_Text>
+<S_Lose_Number>26</S_Lose_Number>
+<S_Win_Number>26</S_Win_Number>
+<S_HighestRanking>35</S_HighestRanking>
+
+<FemaleText>Daria Gavrilova</FemaleText>
+		<FemaleFirstName>Daria</FemaleFirstName>
+		<FemaleFamilyName>Gavrilova</FemaleFamilyName>
+<PB_Text>Born in Moscow, Daria Gavrilovaǯs talent on the court was quickly seen when she won gold as an unseeded player for Russia at the 2010 Youth Olympic Games in Singapore.   A junior French Open Champion in 2010, Gavrilova currently represents Australia at Grand Slam events and her native Russia at all other tournaments.  After defeating childhood idol Maria Sharapova in straight sets at the 2015 Miami Open, only months later, Gavrilova claimed her second career victory over a top 10 seed.  Gavrilovaǯs favourite shot is her forehand, and her favourite surface to play on is hard court. </PB_Text>
+<Info_Text>
+<Birthplace>Moscow</Birthplace>
+	<Country>Russia</Country>
+	<age>5th March 1994</age>
+	<height>166cm</height>
+	<weight>61kg</weight>
+	<plays>Right-handed (two-handed backhand)</plays>
+</Info_Text>
+<S_Lose_Number>21</S_Lose_Number>
+<S_Win_Number>41</S_Win_Number>
+<S_HighestRanking>36</S_HighestRanking>
+
+<FemaleText>Carina Witthoeft</FemaleText>
+		<FemaleFirstName>Carina</FemaleFirstName>
+		<FemaleFamilyName>Witthoeft</FemaleFamilyName>
+<PB_Text>Carina Witthoeft was introduced to tennis at an early age, with her parents owning and operating tennis clubs in Germany.  Winning 10 singles titles on the ITF tour, she debuted on the WTA tour at the age of 17, competing in the 2012 Swedish Open.  Modelling her game on the style of Russian star Maria Sharapova, Witthoeft shapes as a future star of the game.  Witthoeft is an aggressive player, with her favourite shot being her serve. </PB_Text>
+<Info_Text>
+<Birthplace>Hamburg </Birthplace>
+	<Country>Germany</Country>
+	<age>16th February 1995</age>
+	<height>176cm</height>
+	<weight>68kg</weight>
+	<plays>Right-handed (two-handed backhand)</plays>
+</Info_Text>
+<S_Lose_Number>23</S_Lose_Number>
+<S_Win_Number>32</S_Win_Number>
+<S_HighestRanking>57</S_HighestRanking>
+

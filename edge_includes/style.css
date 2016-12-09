@@ -1,0 +1,218 @@
+/** 
+
+This style is very low level of css effect to the document since every js action will add to inline css and they has the highest level
+of priority. However, there are some general css about the structure or the element out side the control of edge we created like mother div of
+every div stage or the body or any element we created manually in index html, this will work well.
+
+**/
+
+@font-face {
+    font-family: doppio-one;
+    src: url(../font/DoppioOne-Regular.ttf);
+    font-weight:normal;
+}
+
+@font-face {
+    font-family: ruluko;
+    src: url(../font/Ruluko-Regular.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: dosis;
+    src: url(../font/Dosis-Book.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: dosis;
+    src: url(../font/Dosis-Bold.ttf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: dosis;
+    src: url(../font/Dosis-Light.ttf);
+    font-weight: light;
+}
+
+@font-face {
+    font-family: dosis;
+    src: url(../font/Dosis-ExtraLight.ttf);
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: dosis;
+    src: url(../font/Dosis-ExtraLight.ttf);
+    font-weight: 100;
+}
+
+
+@font-face {
+    font-family: dosis;
+    src: url(../font/Dosis-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: dosis;
+    src: url(../font/Dosis-SemiBold.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: dosis;
+    src: url(../font/Dosis-ExtraBold.ttf);
+    font-weight: 800;
+}
+
+
+* {	-webkit-box-sizing: border-box; -webkit-transition: translate3d(0,0,0); transform-origin: center center;}
+
+
+.hideScroll::-webkit-scrollbar { width: 0 !important; }
+
+.hideScroll { -ms-overflow-style: none; overflow: -moz-scrollbars-none;}
+
+
+.YearBulletAll>div>p {
+
+    color:#fff;
+}
+
+.ShadowBG {
+
+    pointer-events: none;
+
+}
+
+#Image_Overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color:rgba(0,0,0,1);
+    opacity:0;
+    pointer-events: none;
+    display: block;
+    z-index: 15;
+}
+
+.Image_Caption {
+    width: 100%;
+    position: absolute;
+    bottom:-12%;
+    color: #FFF;
+    text-align: center;
+    font-family: dosis, sans-serif; 
+    font-size: 18px; 
+    font-weight: normal;
+    display: none;
+}
+
+.OnTop {
+    z-index: 999;   
+}
+
+.WinnerAvatar {
+
+    box-shadow: inset 0 0 50px 0 rgba(0,0,0,1);
+
+}
+
+.GalleryGroups {
+    position:absolute;
+    background-color: none;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    opacity: 0;
+}
+
+.GalleryMotherImages {
+    position: absolute;
+
+}
+
+.GalleryImages {
+    position: absolute;
+    display: none;
+    box-shadow: 0 0 100px 20px rgba(0,0,0,0.75), inset 0 0 200px 0 rgba(0,0,0,1);
+    border-radius: 0px;
+}
+
+.PlayerImages {
+    
+
+    box-shadow: 0 0 50px 10px rgba(0,0,0,0.5), inset 0 0 100px 0 rgba(0,0,0,1);
+
+   -webkit-filter: saturate(0);
+
+}
+
+.RotatingImages {
+    transform-origin: center center;   
+}
+
+.Xanimated {
+  -webkit-animation: filter-animation;
+  -webkit-animation-duration: 1.5s;
+  -webkit-animation-delay: 0s;
+  -webkit-animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+
+
+@-webkit-keyframes filter-animation {
+  0% {
+    -webkit-filter: sepia(0) saturate(0) drop-shadow(rgb(0, 0, 0) 0px 0px 30px);
+  }
+  
+  100% {
+    -webkit-filter: sepia(0) saturate(1) drop-shadow(rgb(0, 0, 0) 0px 0px 30px);
+  }
+}
+
+
+
+
+.clicked {
+  z-index: 999;  
+}
+
+
+.unactivatedImgs {
+    
+    -webkit-filter: sepia(0) saturate(0);
+
+}
+
+/* 
+.GAnimated {
+
+  -webkit-animation: gallery-animation;
+  -webkit-animation-duration: 0.5s;
+  -webkit-animation-delay: 0s;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-timing-function: 'cubic-bezier(.18,.72,.32,1.22)';
+  animation-timing-function: 'cubic-bezier(.18,.72,.32,1.22)';
+  animation-fill-mode: forwards;  
+  z-index: 999;
+    
+}
+
+
+@-webkit-keyframes gallery-animation {
+  0% {
+
+      
+  }
+  
+  100% {
+
+
+  }
+}
+
+*/

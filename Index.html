@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+	<title>OTF-YearSelector</title>
+    
+    <!--Adobe Edge Runtime-->
+    <link rel="stylesheet" href="edge_includes/style.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="edge_includes/animate.css" type="text/css" media="screen" />
+    <script type="text/javascript" charset="utf-8" src="edge_includes/edge.6.0.0.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="js/jquery-2.1.4.js"></script>
+    <script type="text/javascript" charset="utf-8" src="js/hammer.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="js/interact.js"></script>
+
+    <style>
+        div[class^="edgeLoad-OTF-"] {
+        
+            visibility:hidden;
+        
+        }
+        
+
+        
+        body { background-color: #000; }
+        
+        body::-webkit-scrollbar { width: 0 !important; }
+
+        body,.OTF-Responsive { -ms-overflow-style: none; overflow: -moz-scrollbars-none;}
+        
+        #MainMenu {
+            position: relative;
+            width:1920px;
+            height:1080px;
+            overflow: hidden;
+            display: none;
+            border:#00FF00 solid 0px;
+            background-color: rgba(0,0,0,0);            
+        }
+        
+        #HistoryTimeLine {
+            position: relative;
+            width:1920px;
+            height:1080px;
+            overflow: hidden;
+            display: none;
+            border:#00FF00 solid 0px;
+            background-color: #000;
+        }
+        
+        #HistoryTimeLineMore {
+            position: relative;
+            width:1920px;
+            height:1080px;
+            overflow: hidden;
+            display: block;
+            border:#00FF00 solid 0px;
+            background-color: rgba(0,0,0,0.75);
+            z-index: 1000;
+            opacity: 0;
+            pointer-events: none;   
+        }
+        
+        #Highlight {
+            position: relative;
+            width:1920px;
+            height:1080px;
+            overflow: hidden;
+            display: none;
+            border:#00FF00 solid 0px;
+            background-color: #000;    
+        }
+        
+        #VenueEvent {
+            position: relative;
+            width:1920px;
+            height:1080px;
+            overflow: hidden;
+            display: none;
+            border:#00FF00 solid 0px;
+            background-color: #000;     
+        }
+
+        #QuizOne {
+            position: relative;
+            width:1920px;
+            height:1080px;
+            overflow: hidden;
+            display: none;
+            border:#00FF00 solid 0px;
+            background-color: #000;
+        }
+        
+        #QuizTwo {
+            position: relative;
+            width:1920px;
+            height:1080px;
+            overflow: hidden;
+            display: none;
+            border:#00FF00 solid 0px;
+            background-color: #000;    
+        }
+        
+        #PlayerList {
+            position: relative;
+            width:1920px;
+            height:1080px;
+            overflow: hidden;
+            display: none;
+            border:#00FF00 solid 0px;
+            background-color: #000;
+        }
+        
+        #Gallery {
+            position: relative;
+            width:1920px;
+            height:1080px;
+            overflow: hidden;
+            display: none;
+            border:#00FF00 solid 0px;
+            background-color: #000;           
+        }
+        
+        #PlayerInformation {
+            position: relative;
+            width:1920px;
+            height:1080px;
+            overflow: hidden;
+            display: block;
+            border:#00FF00 solid 0px;
+            background-color: rgba(0,0,0,0.75);
+            z-index: 1000;
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        #SideBarMenu {
+            position: relative;
+            width:1920px;
+            height:1080px;
+            overflow: hidden;
+            display: block;
+            border:#00FF00 solid 0px;
+            background-color: rgba(0,0,0,0.5);
+            z-index: 1000;
+            opacity: 0;
+            pointer-events: none;
+        }
+        
+
+        
+    </style>
+    
+    <script>
+    $(document).ready(function(){
+        
+        function fillDiv(div,currentWidth) {
+            
+        scaleX = $(window).width() / currentWidth;
+        div.css({
+            "position":"absolute","top":"0px",left:"0px",
+            "-webkit-transform": "scale("+scaleX+","+scaleX+")",
+            "-webkit-transform-origin": "0 0"
+          });
+
+        }
+        
+        $(document).ready(function(){fillDiv($(".OTF-Responsive"),1920);});
+        
+        $(window).bind("resize", function() { fillDiv($(".OTF-Responsive"), 1920);});
+        
+        
+        // -------------- BEGIN 1 ONE COMPOSITIONS -------------- //
+        
+        AdobeEdge.loadComposition('HistoryBackground', 'OTF-HistoryBackground', {
+            scaleToFit: "none",
+            centerStage: "none",
+            minW: "0px",
+            maxW: "undefined",
+            width: "1920px",
+            height: "1080px"
+        }, {dom: [ ]}, {dom: [ ]});   
+        
+        
+        AdobeEdge.loadComposition('YearSelector', 'OTF-YearSelector', {
+            scaleToFit: "none",
+            centerStage: "none",
+            minW: "0px",
+            maxW: "undefined",
+            width: "1px",
+            height: "1px"
+        }, {dom: [ ]}, {dom: [ ]});   
+        
+        
+         AdobeEdge.loadComposition('HistoryYearInfo', 'OTF-HistoryYearInfo', {
+            scaleToFit: "none",
+            centerStage: "none",
+            minW: "0px",
+            maxW: "undefined",
+            width: "1px",
+            height: "1px"
+        }, {dom: [ ]}, {dom: [ ]});      
+        
+        
+        AdobeEdge.loadComposition('HistoryActionButton', 'OTF-HistoryActionButton', {
+            scaleToFit: "none",
+            centerStage: "none",
+            minW: "0px",
+            maxW: "undefined",
+            width: "1px",
+            height: "1px"
+        }, {dom: [ ]}, {dom: [ ]});
+        
+        
+       AdobeEdge.loadComposition('HistoryWinner', 'OTF-HistoryWinner', {
+            scaleToFit: "none",
+            centerStage: "none",
+            minW: "0px",
+            maxW: "undefined",
+            width: "1px",
+            height: "1px"
+        }, {dom: [ ]}, {dom: [ ]});
+        
+        
+       AdobeEdge.loadComposition('HistoryReadMore', 'OTF-HistoryReadMore', {
+            scaleToFit: "none",
+            centerStage: "none",
+            minW: "0px",
+            maxW: "undefined",
+            width: "1920px",
+            height: "1080px"
+        }, {dom: [ ]}, {dom: [ ]});
+
+        
+        // -------------- END SCENE 1 COMPOSITIONS -------------- //
+        
+        // -------------- BEGIN QUIZ COMPOSITIONS -------------- //
+        
+       AdobeEdge.loadComposition('QuizOne', 'OTF-QuizOne', {
+            scaleToFit: "none",
+            centerStage: "none",
+            minW: "0px",
+            maxW: "undefined",
+            width: "1920px",
+            height: "1080px"
+        }, {dom: [ ]}, {dom: [ ]});
+        
+        // -------------- END QUIZ COMPOSITIONS -------------- //  
+        
+        
+        // -------------- BEGIN QUIZ TWO -------------- // 
+        
+            AdobeEdge.loadComposition('Quiz', 'OTF-QuizTwo', {
+                scaleToFit: "none",
+                centerStage: "none",
+                minW: "0px",
+                maxW: "undefined",
+                width: "1920px",
+                height: "1080px"
+            }, {dom: [ ]}, {dom: [ ]});
+        
+        // -------------- BEGIN QUIZ TWO -------------- // 
+        
+        
+        // -------------- BEGIN LIST COMPOSITIONS -------------- //
+        
+       AdobeEdge.loadComposition('PlayerList', 'OTF-PlayerList', {
+            scaleToFit: "none",
+            centerStage: "none",
+            minW: "0px",
+            maxW: "undefined",
+            width: "1920px",
+            height: "1080px"
+        }, {dom: [ ]}, {dom: [ ]});
+        
+       AdobeEdge.loadComposition('PlayerFilter', 'OTF-PlayerFilter', {
+            scaleToFit: "none",
+            centerStage: "none",
+            minW: "0px",
+            maxW: "undefined",
+            width: "1920px",
+            height: "1080px"
+        }, {dom: [ ]}, {dom: [ ]});
+
+        // -------------- END LIST COMPOSITIONS -------------- //    
+        
+        
+        // -------------- BEGIN GALLERY -------------- //    
+        
+        AdobeEdge.loadComposition('Gallery', 'OTF-Gallery', {
+            scaleToFit: "none",
+            centerStage: "none",
+            minW: "0px",
+            maxW: "undefined",
+            width: "1920px",
+            height: "1080px"
+        }, {dom: [ ]}, {dom: [ ]});
+        
+        // -------------- END GALLERY -------------- // 
+        
+        
+        // -------------- BEGIN PLAYER INFO -------------- //   
+        
+        AdobeEdge.loadComposition('PlayerInformation', 'OTF-PlayerInformation', {
+            scaleToFit: "none",
+            centerStage: "none",
+            minW: "0px",
+            maxW: "undefined",
+            width: "1920px",
+            height: "1080px"
+        }, {dom: [ ]}, {dom: [ ]});
+        
+        // -------------- END PLAYER INFO -------------- // 
+        
+        // -------------- BEGIN SIDEBAR MENU -------------- // 
+        
+        AdobeEdge.loadComposition('SideBarMenu', 'OTF-SideBarMenu', {
+            scaleToFit: "none",
+            centerStage: "none",
+            minW: "0px",
+            maxW: "undefined",
+            width: "1920px",
+            height: "1080px"
+        }, {dom: [ ]}, {dom: [ ]});
+        
+        // -------------- END SIDEBAR MENU -------------- // 
+        
+        // -------------- BEGIN MAIN MENU -------------- // 
+        /**
+           AdobeEdge.loadComposition('MainMenu', 'OTF-MainMenu', {
+                scaleToFit: "none",
+                centerStage: "none",
+                minW: "0px",
+                maxW: "undefined",
+                width: "1920px",
+                height: "1080px"
+            }, {dom: [ ]}, {dom: [ ]}); 
+        **/
+        // -------------- END MAIN MENU -------------- // 
+        
+        // -------------- BEGIN HIGHLIGHT -------------- // 
+        
+           AdobeEdge.loadComposition('Highlight', 'OTF-Highlight', {
+                scaleToFit: "none",
+                centerStage: "none",
+                minW: "0px",
+                maxW: "undefined",
+                width: "1920px",
+                height: "1080px"
+            }, {dom: [ ]}, {dom: [ ]});
+
+        // -------------- END HIGHLIGHT -------------- // 
+        
+        // -------------- BEGIN VENUE -------------- // 
+        
+           AdobeEdge.loadComposition('VenueEvent', 'OTF-VenueEvent', {
+                scaleToFit: "none",
+                centerStage: "none",
+                minW: "0px",
+                maxW: "undefined",
+                width: "1920px",
+                height: "1080px"
+            }, {dom: [ ]}, {dom: [ ]});
+        
+        // -------------- BEGIN VENUE -------------- // 
+        
+        // 
+        
+           AdobeEdge.loadComposition('Intro', 'OTF-Intro', {
+                scaleToFit: "none",
+                centerStage: "none",
+                minW: "0px",
+                maxW: "undefined",
+                width: "1920px",
+                height: "1080px"
+            }, {dom: [ ]}, {dom: [ ]});
+
+        
+
+        AdobeEdge.bootstrapCallback(function (compId) {
+            
+            // Assign some first action to any composition after loaded like CSS for organize position of compositions
+            switch (compId) {
+                    
+                case 'OTF-HistoryBackground': 
+                    {   
+
+                      yepnope({
+                      load: "edge_includes/init.js",
+                      complete: function() {
+                        // Do something when loading is complete
+                        // alert();
+                              }
+                            });
+
+                        // Everything Now can be included in Init.js
+                        break;
+                        
+                    }      
+                    
+                
+            }
+            
+
+        });
+        
+        
+    });
+    </script>
+    <!--Adobe Edge Runtime End-->
+
+</head>
+<body style="margin:0;padding:0;">
+    
+    <!-- BEGIN SCENE 1 HTML -->
+    
+    <div id="HistoryTimeLine" class="OTF-Responsive">
+         
+        <div id="Stage-HistoryBackground" class="OTF-HistoryBackground"></div>
+        
+        <div id="Stage-HistoryActionButton" class="OTF-HistoryActionButton"></div>   
+        
+        <div id="Stage-HistoryYearInfo" class="OTF-HistoryYearInfo"></div>
+        
+        <div id="Stage-HistoryWinner" class="OTF-HistoryWinner"></div>  
+        
+        <div id="Stage-YearSelector" class="OTF-YearSelector"></div>   
+        
+    </div>
+    
+    <div id="HistoryTimeLineMore" class="OTF-Responsive">
+        <div id="Stage-HistoryReadMore" class="OTF-HistoryReadMore"></div>
+    </div>
+    
+    <!-- END SCENE 1 HTML -->
+    
+    <!-- BEGIN HIGHLIGHT HTML -->    
+    
+    <div id="Highlight" class="OTF-Responsive">
+        <div id="Stage-Highlight" class="OTF-Highlight"></div>
+    </div>
+    
+	<!-- END HIGHLIGHT HTML -->
+    
+    
+    <!-- BEGIN VENUE HTML -->    
+    
+    <div id="VenueEvent" class="OTF-Responsive">
+        <div id="Stage-VenueEvent" class="OTF-VenueEvent"></div>
+    </div>
+    
+	<!-- END VENUE HTML -->
+    
+    
+    <!-- BEGIN QUIZ HTML -->
+    
+    <div id="QuizOne" class="OTF-Responsive">
+    
+       <div id="Stage-QuizOne" class="OTF-QuizOne"></div>
+    
+    </div>
+    
+    <div id="QuizTwo" class="OTF-Responsive">
+    
+       <div id="Stage-QuizTwo" class="OTF-QuizTwo"></div>
+    
+    </div>
+    
+    <!-- BEGIN QUIZ HTML -->
+    
+    <!-- BEGIN PLAYER LIST HTML -->
+    
+    <div id="PlayerList" class="OTF-Responsive">
+    
+        <div id="Stage-PlayerList" class="OTF-PlayerList"></div>
+        
+        <div id="Stage-PlayerFilter" class="OTF-PlayerFilter"></div>
+    
+    </div>
+    
+    <!-- END PLAYER LIST HTML -->
+    
+    <!-- BEGIN GALLERY HTML -->
+     <div id="Gallery" class="OTF-Responsive">
+    
+        <div id="Stage-Gallery" class="OTF-Gallery"></div>
+    
+     </div>    
+    <!-- END GALLERY HTML -->
+    
+    <!-- BEGIN PLAYER INFO HTML -->
+    <div id="PlayerInformation" class="OTF-Responsive">
+        
+        <div id="Stage-PlayerInformation" class="OTF-PlayerInformation"></div>
+        
+    </div>
+    <!-- BEGIN PLAYER INFO HTML -->
+
+    <!-- BEGIN SIDEBAR MENU HTML -->
+    
+    <div id="SideBarMenu" class="OTF-Responsive">
+    
+        <div id="Stage-SideBarMenu" class="OTF-SideBarMenu"></div>
+    
+    </div>
+    
+    <!-- END SIDEBAR MENU HTML -->
+    
+    <!-- BEGIN MAIN MENU HTML -->
+    
+    <div id="MainMenu" class="OTF-Responsive">
+    
+        <div id="Stage-Intro" class="OTF-Intro"></div>
+
+    </div>
+    
+    <!-- END MAIN MENU HTML -->
+    
+    
+
+    
+</body>
+</html>
