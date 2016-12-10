@@ -1,7 +1,7 @@
 
 {
 
-	"expanded:images/Test/CHP_Export_3047965_2012.jpg":"nil",
+	"expanded:images/test/CHP_Export_3047965_2012.jpg":"nil",
 	"expanded:images/OTF-BG-00.jpg":"nil",
 	"expanded:images/OTF-BG-03.jpg":"nil",
 	"expanded:svg/Arrow.svg":"nil",
@@ -70,14 +70,14 @@
 	"expanded:images/OTF-BG-06.jpg":"nil",
 	"expanded:images/OTF-BG-09.jpg":"nil",
 	"CompZoomFactor":"100",
-	"expanded:images/Test/CHP_Export_3335899.jpg":"nil",
+	"expanded:images/test/CHP_Export_3335899.jpg":"nil",
 	"expanded:images/OTF-BG-07.jpg":"nil",
 	"nextElementColorIndex":"13",
 	"pref__general__GenerateSmoothTransitions":"true",
 	"YearBullets-Default Timeline_playhead_ms":"0",
 	"YearSelector-Default Timeline_playhead_ms":"0",
 	"HTMLFileName":"YearSelector.html",
-	"expanded:images/Test/CHP_Export_3042265_2012.jpg":"nil",
+	"expanded:images/test/CHP_Export_3042265_2012.jpg":"nil",
 	"ModelData":"{\
 \"stage\": {\
    \"timelines\": {\
@@ -118,7 +118,7 @@
 \
    }}\
 }",
-	"expanded:images/Test/CHP_Export_3318160.jpg":"nil",
+	"expanded:images/test/CHP_Export_3318160.jpg":"nil",
 	"expanded:images/OTF-BG-08.jpg":"nil",
 	"expanded:images/preloader4.gif":"nil",
 	"symbol_DecreaseSymbol":{
@@ -254,9 +254,9 @@
 			"timelineColor":"0x2f73ad"}},
 	"BulletArrowAnimation-Default Timeline_playhead_ms":"0",
 	"expanded:images/svg/Venue.svg":"nil",
-	"expanded:images/Test/CHP_Export_105718875.jpg":"nil",
-	"expanded:images/Test/FedererW.jpg":"nil",
-	"expanded:images/Test/Federer.jpg":"nil",
+	"expanded:images/test/CHP_Export_105718875.jpg":"nil",
+	"expanded:images/test/FedererW.jpg":"nil",
+	"expanded:images/test/Federer.jpg":"nil",
 	"expanded:images/OTF-BG.jpg":"nil",
 	"pref__general__FilterNonAnimatedElements":"false",
 	"expanded:images/svg/Menu.svg":"nil",
@@ -278,22 +278,22 @@
 	"StageZoomFactor":"25",
 	"pixelsPerMs":"0.2",
 	"expanded:images/OTF-BG-02.jpg":"nil",
-	"expanded:images/Test/CHP_Export_3303529.jpg":"nil",
+	"expanded:images/test/CHP_Export_3303529.jpg":"nil",
 	"YearBullet-00-Default Timeline_mark_ms":"-1",
 	"expanded:images/svg/Info.svg":"nil",
 	"YearBorder-Default Timeline_playhead_ms":"0",
-	"expanded:images/Test/Maria.jpg":"nil",
+	"expanded:images/test/Maria.jpg":"nil",
 	"expanded:images/svg/Arrow.svg":"nil",
 	"expanded:images/OTF-BG-05.jpg":"nil",
 	"expanded:images/preloader42.gif":"nil",
 	"pref__general__codeView":"sectionalView",
-	"expanded:images/Test/CHP_Export_3319116.jpg":"nil",
+	"expanded:images/test/CHP_Export_3319116.jpg":"nil",
 	"YearBullet-00-Default Timeline_playhead_ms":"0",
 	"expanded:images/svg/Bullet.svg":"nil",
-	"expanded:images/Test/QuizTest-1.jpg":"nil",
-	"expanded:images/Test/QuizTest-0.jpg":"nil",
+	"expanded:images/test/QuizTest-1.jpg":"nil",
+	"expanded:images/test/QuizTest-0.jpg":"nil",
 	"expanded:images/OTF-BG-01.jpg":"nil",
-	"expanded:images/Test/Flag.jpg":"nil",
+	"expanded:images/test/Flag.jpg":"nil",
 	"expanded:images/PlayerListBG.jpg":"nil",
 	"expanded:images/svg/Close.svg":"nil",
 	"symbol_stage":{
@@ -455,7 +455,7 @@
 	"IncreaseSymbol-Default Timeline_playhead_ms":"0",
 	"YearBorder-Default Timeline_mark_ms":"800",
 	"symbol_BulletArrowAnimation":{},
-	"expanded:images/Test/CHP_Export_3041448_2012.jpg":"nil",
+	"expanded:images/test/CHP_Export_3041448_2012.jpg":"nil",
 	"stage-Default Timeline_playhead_ms":"2000",
 	"expanded:Test/":"nil",
 	"expanded:images/svg/ArrowW.svg":"nil"}

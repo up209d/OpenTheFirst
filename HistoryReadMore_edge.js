@@ -109,7 +109,7 @@
                                 id: 'CHP_Export_105718875',
                                 opacity: '0',
                                 type: 'image',
-                                fill: ['rgba(0,0,0,0)', 'images/Test/CHP_Export_105718875.jpg', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'images/test/CHP_Export_105718875.jpg', '0px', '0px']
                             },
                             {
                                 rect: ['0px', '594px', '471px', '418px', 'auto', 'auto'],
@@ -117,7 +117,7 @@
                                 id: 'CHP_Export_3042265_2012',
                                 opacity: '0',
                                 clip: 'rect(35px 467px 188px 0px)',
-                                fill: ['rgba(0,0,0,0)', 'images/Test/CHP_Export_3042265_2012.jpg', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'images/test/CHP_Export_3042265_2012.jpg', '0px', '0px']
                             },
                             {
                                 rect: ['-1px', '403px', '471px', '333px', 'auto', 'auto'],
@@ -126,7 +126,7 @@
                                 id: 'CHP_Export_3303529',
                                 opacity: '0',
                                 clip: 'rect(23px 467px 218px 0px)',
-                                fill: ['rgba(0,0,0,0)', 'images/Test/CHP_Export_3303529.jpg', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'images/test/CHP_Export_3303529.jpg', '0px', '0px']
                             },
                             {
                                 rect: ['256px', '238px', '209px', '221px', 'auto', 'auto'],
@@ -134,14 +134,14 @@
                                 id: 'CHP_Export_3318160',
                                 opacity: '0',
                                 clip: 'rect(33.666748046875px 209px 181px 0px)',
-                                fill: ['rgba(0,0,0,0)', 'images/Test/CHP_Export_3318160.jpg', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'images/test/CHP_Export_3318160.jpg', '0px', '0px']
                             },
                             {
                                 rect: ['0px', '166px', '248px', '253px', 'auto', 'auto'],
                                 id: 'CHP_Export_3319116',
                                 opacity: '0',
                                 type: 'image',
-                                fill: ['rgba(0,0,0,0)', 'images/Test/CHP_Export_3319116.jpg', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'images/test/CHP_Export_3319116.jpg', '0px', '0px']
                             },
                             {
                                 rect: ['256px', '0px', '209px', '264px', 'auto', 'auto'],
@@ -149,7 +149,7 @@
                                 id: 'CHP_Export_3335899',
                                 opacity: '0',
                                 clip: 'rect(0px 209px 264px 0px)',
-                                fill: ['rgba(0,0,0,0)', 'images/Test/CHP_Export_3335899.jpg', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'images/test/CHP_Export_3335899.jpg', '0px', '0px']
                             }]
                         },
                         {

@@ -33,7 +33,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
          
          $('#Stage-HistoryWinner_MaleBackground').css({
          
-         	backgroundImage:'url(images/Test/Federer.jpg)',
+         	backgroundImage:'url(images/test/Federer.jpg)',
          	backgroundSize: '100% 100%',
          	backgroundPosition: 'center center'
          
@@ -43,7 +43,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
          
          $('#Stage-HistoryWinner_FemaleBackground').css({
          
-         	backgroundImage:'url(images/Test/Maria.jpg)',
+         	backgroundImage:'url(images/test/Maria.jpg)',
          	backgroundSize: '100% 100%',
          	backgroundPosition: 'center center'
          

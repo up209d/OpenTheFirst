@@ -669,7 +669,7 @@ function ShowQuizOne() {
 
         $('.RotatingImages').css({
 
-            backgroundImage: "url(images/Test/QuizTest-"+randomImage+".jpg)",
+            backgroundImage: "url(images/test/QuizTest-"+randomImage+".jpg)",
             backgroundSize: "2400px 2400px",
             backgroundPosition: "center center"
 
@@ -906,7 +906,7 @@ function ShowVenueEvent() {
                     
                             // Flag Background Change
                             randomImage = Math.floor((Math.random() * flags.length));
-                            $('#Stage-PlayerList_PlayerBrief_Flag').css({backgroundImage: 'url(images/Test/'+flags[randomImage]+'.jpg)'});
+                            $('#Stage-PlayerList_PlayerBrief_Flag').css({backgroundImage: 'url(images/test/'+flags[randomImage]+'.jpg)'});
 
                     
                         $(".PlayerButtons:eq("+PLNumber+")").animate({backgroundColor: "rgba(255,255,255,1.0)"},500,'swing');
@@ -987,7 +987,7 @@ function ShowVenueEvent() {
                     
                             // Flag Background Change
                             randomImage = Math.floor((Math.random() * flags.length));
-                            $('#Stage-PlayerList_PlayerBrief_Flag').css({backgroundImage: 'url(images/Test/'+flags[randomImage]+'.jpg)'});
+                            $('#Stage-PlayerList_PlayerBrief_Flag').css({backgroundImage: 'url(images/test/'+flags[randomImage]+'.jpg)'});
                     
                     
                         $(".PlayerButtons:eq("+PLNumber+")").animate({backgroundColor: "rgba(255,255,255,1.0)"},500,'swing');
@@ -1065,7 +1065,7 @@ function ShowVenueEvent() {
                     
                             // Flag Background Change
                             randomImage = Math.floor((Math.random() * flags.length));
-                            $('#Stage-PlayerList_PlayerBrief_Flag').css({backgroundImage: 'url(images/Test/'+flags[randomImage]+'.jpg)'});
+                            $('#Stage-PlayerList_PlayerBrief_Flag').css({backgroundImage: 'url(images/test/'+flags[randomImage]+'.jpg)'});
 
                     
                         $(this).animate({backgroundColor: "rgba(255,255,255,1.0)"},500,'swing');
@@ -1122,7 +1122,7 @@ function ShowVenueEvent() {
                 
                     // Flag Background Change
                     randomImage = Math.floor((Math.random() * flags.length));
-                    $('#Stage-PlayerList_PlayerBrief_Flag').css({backgroundImage: 'url(images/Test/'+flags[randomImage]+'.jpg)'});
+                    $('#Stage-PlayerList_PlayerBrief_Flag').css({backgroundImage: 'url(images/test/'+flags[randomImage]+'.jpg)'});
 
                     $('.PlayerBullets:eq('+bullet_curentIndex+')').css({backgroundColor: "rgba(255,255,255,1.0)"});
                     bullet_curentIndex = 0;
@@ -1178,7 +1178,7 @@ function ShowVenueEvent() {
                         .transition({  perspective: '10000px',  rotateX: '360deg' },1000);
              
             clearTimeout(ChangePic);
-            var ChangePic = setTimeout(function(){$(".PlayerImages:eq("+currentIndex+")").css({backgroundImage: 'url(images/Test/'+names[randomImage]+'.jpg)'});	},500);            
+            var ChangePic = setTimeout(function(){$(".PlayerImages:eq("+currentIndex+")").css({backgroundImage: 'url(images/test/'+names[randomImage]+'.jpg)'});	},500);
 
         }
     });

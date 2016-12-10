@@ -748,7 +748,7 @@
                             id: 'BG_Image0',
                             opacity: '1',
                             display: 'none',
-                            fill: ['rgba(0,0,0,0)', 'images/Test/BG/BG-00.jpg', '0px', '0px']
+                            fill: ['rgba(0,0,0,0)', 'images/test/BG/BG-00.jpg', '0px', '0px']
                         },
                         {
                             rect: ['0px', '0px', '1920px', '1080px', 'auto', 'auto'],
@@ -756,14 +756,14 @@
                             id: 'BG_Image1',
                             opacity: '1',
                             display: 'none',
-                            fill: ['rgba(0,0,0,0)', 'images/Test/BG/BG-01.jpg', '0px', '0px']
+                            fill: ['rgba(0,0,0,0)', 'images/test/BG/BG-01.jpg', '0px', '0px']
                         },
                         {
                             rect: ['0px', '0px', '1920px', '1080px', 'auto', 'auto'],
                             id: 'BG_Image2',
                             opacity: '1',
                             type: 'image',
-                            fill: ['rgba(0,0,0,0)', 'images/Test/BG/BG-01.jpg', '0px', '0px']
+                            fill: ['rgba(0,0,0,0)', 'images/test/BG/BG-01.jpg', '0px', '0px']
                         }
                     ],
                     style: {

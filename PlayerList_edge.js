@@ -430,7 +430,7 @@
                             id: 'Flag',
                             opacity: '0',
                             rect: ['280px', '54px', '60px', '42px', 'auto', 'auto'],
-                            fill: ['rgba(0,0,0,0)', 'images/Test/Flag.jpg', '0px', '0px']
+                            fill: ['rgba(0,0,0,0)', 'images/test/Flag.jpg', '0px', '0px']
                         },
                         {
                             transform: [[], [], [], ['0']],
