@@ -1,6 +1,6 @@
-ndows image file caches
+Windows image file caches
 Thumbs.db
-ehthumbs.db
+thumbs.db
 
 # Folder config file
 Desktop.ini
@@ -10,11 +10,3 @@ $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
-
-#################
-## Directories
-#################
-
-bin/
-bower_components/
-node_modules/
