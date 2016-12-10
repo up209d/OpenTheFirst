@@ -29,6 +29,37 @@
 
         body,.OTF-Responsive { -ms-overflow-style: none; overflow: -moz-scrollbars-none;}
         
+        #Loading {
+            max-width: 1920px;
+            min-height: 1080px;
+            -webkit-display: -webkit-box;
+            -webkit-display: -webkit-flex;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            background-color: #000;
+            justify-content: center;
+            align-items: center;
+            -webkit-animation: Loading 5s infinite;
+            -moz-animation: Loading 5s infinite;
+            -o-animation: Loading 5s infinite;
+            animation: Loading 5s infinite;
+            font-family: 'dosis',san-serif;
+        }
+        
+        #Loading * {
+            font-weight: 200;
+        }
+        
+        @keyframes Loading {
+            0% {background-color: #000;}
+            50% {background-color: #111;}
+            100% {background-color: #000;}
+        }
+        
         #MainMenu {
             position: relative;
             width:1920px;
@@ -153,25 +184,24 @@
     </style>
     
     <script>
-    $(document).ready(function(){
         
-        function fillDiv(div,currentWidth) {
-            
-        scaleX = $(window).width() / currentWidth;
-        div.css({
-            "position":"absolute","top":"0px",left:"0px",
-            "-webkit-transform": "scale("+scaleX+","+scaleX+")",
-            "-webkit-transform-origin": "0 0"
-          });
+    function fillDiv(div,currentWidth) {
 
-        }
+    scaleX = $(window).width() / currentWidth;
+    div.css({
+        "position":"absolute","top":"0px",left:"0px",
+        "-webkit-transform": "scale("+scaleX+","+scaleX+")",
+        "-webkit-transform-origin": "0 0"
+      });
+
+    }
+
+    $(document).ready(function(){fillDiv($(".OTF-Responsive"),1920);});
+
+    $(window).bind("resize", function() { fillDiv($(".OTF-Responsive"), 1920);});
         
-        $(document).ready(function(){fillDiv($(".OTF-Responsive"),1920);});
         
-        $(window).bind("resize", function() { fillDiv($(".OTF-Responsive"), 1920);});
-        
-        
-        // -------------- BEGIN 1 ONE COMPOSITIONS -------------- //
+// -------------- BEGIN 1 ONE COMPOSITIONS -------------- //
         
         AdobeEdge.loadComposition('HistoryBackground', 'OTF-HistoryBackground', {
             scaleToFit: "none",
@@ -180,16 +210,6 @@
             maxW: "undefined",
             width: "1920px",
             height: "1080px"
-        }, {dom: [ ]}, {dom: [ ]});   
-        
-        
-        AdobeEdge.loadComposition('YearSelector', 'OTF-YearSelector', {
-            scaleToFit: "none",
-            centerStage: "none",
-            minW: "0px",
-            maxW: "undefined",
-            width: "1px",
-            height: "1px"
         }, {dom: [ ]}, {dom: [ ]});   
         
         
@@ -231,7 +251,18 @@
             width: "1920px",
             height: "1080px"
         }, {dom: [ ]}, {dom: [ ]});
-
+        
+        
+        AdobeEdge.loadComposition('YearSelector', 'OTF-YearSelector', {
+            scaleToFit: "none",
+            centerStage: "none",
+            minW: "0px",
+            maxW: "undefined",
+            width: "1px",
+            height: "1px"
+        }, {dom: [ ]}, {dom: [ ]});   
+        
+        
         
         // -------------- END SCENE 1 COMPOSITIONS -------------- //
         
@@ -404,14 +435,17 @@
             
 
         });
-        
-        
-    });
     </script>
     <!--Adobe Edge Runtime End-->
 
 </head>
 <body style="margin:0;padding:0;">
+    
+    <div id="Loading" class="OTF-Responsive" style="width:1920px;height:1080px;color:white;">
+
+        <h1>Please! Be Patient, it s loading ...</h1>
+
+    </div>
     
     <!-- BEGIN SCENE 1 HTML -->
     
@@ -510,7 +544,7 @@
     <!-- BEGIN MAIN MENU HTML -->
     
     <div id="MainMenu" class="OTF-Responsive">
-    
+        
         <div id="Stage-Intro" class="OTF-Intro"></div>
 
     </div>
