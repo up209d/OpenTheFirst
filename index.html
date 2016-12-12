@@ -29,9 +29,9 @@
 
         body,.OTF-Responsive { -ms-overflow-style: none; overflow: -moz-scrollbars-none;}
         
-        #Loading {
-            max-width: 1920px;
-            min-height: 1080px;
+        #PreLoading {
+            width: 1920px;
+            height: 1080px;
             -webkit-display: -webkit-box;
             -webkit-display: -webkit-flex;
             display: -webkit-box;
@@ -43,18 +43,19 @@
             background-color: #000;
             justify-content: center;
             align-items: center;
-            -webkit-animation: Loading 5s infinite;
-            -moz-animation: Loading 5s infinite;
-            -o-animation: Loading 5s infinite;
-            animation: Loading 5s infinite;
+            -webkit-animation: PreLoading 5s infinite;
+            -moz-animation: PreLoading 5s infinite;
+            -o-animation: PreLoading 5s infinite;
+            animation: PreLoading 5s infinite;
             font-family: 'dosis',san-serif;
         }
         
-        #Loading * {
+        #PreLoading * {
+            color:white;
             font-weight: 200;
         }
         
-        @keyframes Loading {
+        @keyframes PreLoading {
             0% {background-color: #000;}
             50% {background-color: #111;}
             100% {background-color: #000;}
@@ -441,7 +442,7 @@
 </head>
 <body style="margin:0;padding:0;">
     
-    <div id="Loading" class="OTF-Responsive" style="width:1920px;height:1080px;color:white;">
+    <div id="PreLoading" class="OTF-Responsive">
 
         <h1>Please! Be Patient, it s loading ...</h1>
 

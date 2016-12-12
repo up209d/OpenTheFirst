@@ -1,4 +1,4 @@
-Player_Information = {
+﻿Player_Information = {
   "mother": {
     "year": [
       "1969",
@@ -761,4 +761,4 @@ Rising_Star = {
   }
 }
 
-console.log(Player_Information);
+//console.log(Player_Information);

@@ -36,13 +36,13 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 1000, function(sym, e) {
          sym.play(1001);
-
+         document.getElementById('PreLoading').style.display = 'none'
+	 console.log('RUN');
       });
       //Edge binding end
 
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 8000, function(sym, e) {
          sym.playReverse(8000);
-
       });
       //Edge binding end
 
