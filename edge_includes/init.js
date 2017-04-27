@@ -743,7 +743,7 @@ function checkAngle() {
         
         $('.RotatingImages:eq(0)').css({
 
-            backgroundImage: $('.RotatingImages:eq(0)').css("background-image").split('.')[0]+'-Color.jpg)',
+            backgroundImage: $('.RotatingImages:eq(0)').css("background-image").split('.')[0]+'-Color.jpg',
             backgroundSize: "2400px 2400px",
             backgroundPosition: "center center"
 
