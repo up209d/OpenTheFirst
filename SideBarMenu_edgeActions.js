@@ -274,7 +274,6 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
       //Edge binding end
 
       Symbol.bindElementAction(compId, symbolName, "${HallOfFrame}", "click", function(sym, e) {
-         alert('a');
 
       });
       //Edge binding end
